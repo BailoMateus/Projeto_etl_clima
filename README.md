@@ -27,13 +27,13 @@ Este projeto simula um cenário real de ingestão e análise de dados meteoroló
 
 ### 🌡️ Temperatura média por cidade
 
-![Temperatura Média](grafico_temperatura_media.png)
+![Temperatura Média](images/grafico_temperatura_media.png)
 
 ---
 
 ### 📈 Variação de temperatura ao longo do tempo
 
-![Variação de Temperatura](grafico_variacao_temperatura.png)
+![Variação de Temperatura](images/grafico_variacao_temperatura.png)
 
 ---
 
