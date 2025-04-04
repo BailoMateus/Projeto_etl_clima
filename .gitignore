@@ -4,6 +4,7 @@
 # Ignorar arquivos específicos de testes dentro da pasta scripts
 scripts/testeAPY.py
 scripts/testehost.py
+scrpits/aaa.py
 
 # Ignorar arquivos temporários e de cache do Python
 __pycache__/
