@@ -1,0 +1,13 @@
+# Ignorar o arquivo de variáveis de ambiente
+.env
+
+# Ignorar arquivos específicos de testes dentro da pasta scripts
+scripts/testeAPY.py
+scripts/testehost.py
+
+# Ignorar arquivos temporários e de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de log
+*.log
