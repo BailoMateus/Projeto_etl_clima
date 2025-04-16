@@ -2,7 +2,7 @@
 .env
 
 # Ignorar arquivos específicos de testes dentro da pasta scripts
-scripts/testeAPY.py
+scripts/testeAPI.py
 scripts/testehost.py
 scrpits/aaa.py
 
